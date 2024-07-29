@@ -1,11 +1,14 @@
 # Master Thesis
+
+## Overview
 This document contains the coding files used for User Defined functions (UDF) in the FLUENT software and post-processing scripts developed on MATLAB.
 The **Master Thesis** has been done in Collboration with **Montanuniversity Leoben** and **Cranfield University**.
 A big Thank you to the **Chair of Simulation and Modelling of Mettalurgical Process (SMMP)** for having me.
 This project has been developed in accordance to meet the **Cranfield University** guidelines to achieve a Master degree.
+
 ---
 ## Research Area
-The topic focus on modelling Hydrogen Production in Alkaline Water Electrolyser (AWE). The geometry used for validation is from the works of Pang et.al [^1]
+The topic focus on modelling Hydrogen Production in Alkaline Water Electrolyser (AWE). The geometry used for validation is from the works of Pang et.al[^1]
 
 ---
 ## MATLAB code
@@ -34,4 +37,4 @@ disp(eqn_297);
 ```
 ---
 ## References
-[^1] Pang, Xueqi, et al. “Framework for evaluating the performance limits of membraneless electrolyzers.” *Energy &amp; Environmental Science*, vol. 13, no. 10, 2020, pp. 3663–3678, https://doi.org/10.1039/d0ee02268c. 
+[^1]: Pang, Xueqi, et al. “Framework for evaluating the performance limits of membraneless electrolyzers.” *Energy &amp; Environmental Science*, vol. 13, no. 10, 2020, pp. 3663–3678, https://doi.org/10.1039/d0ee02268c. 
